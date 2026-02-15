@@ -1,6 +1,4 @@
-  Here is a **clean, professional, and well-structured GitHub README** for your project:
 
----
 
 # 🌍 Global Essay Translator
 
